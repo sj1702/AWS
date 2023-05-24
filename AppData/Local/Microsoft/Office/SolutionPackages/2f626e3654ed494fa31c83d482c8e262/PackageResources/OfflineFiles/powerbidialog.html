@@ -1,0 +1,35 @@
+<!-- Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license. -->
+<!-- See LICENSE in the project root for license information -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Power BI Popup Dialog</title>
+    <script
+      type="text/javascript"
+      src="https://appsforoffice.microsoft.com/lib/beta/hosted/office.js"></script>
+
+    <!-- Dialog styles -->
+    <link href="powerbidialog.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="dialog-header"></div>
+    <div id="dialog-iframe">
+      <iframe
+        name="powerBIIframe"
+        title="Power BI Iframe"
+        id="powerBIIframe"
+        class="powerBIIframe"></iframe>
+    </div>
+    <div id="dialog-buttons">
+      <button id="dialog-insert-button" class="ms-Button">Insert Table</button>
+      <button id="dialog-cancel-button" class="ms-Button">Cancel</button>
+    </div>
+    <form method="POST" target="powerBIIframe" id="token-submission-form">
+      <input name="token" id="token-input" type="hidden" value="" />
+    </form>
+  <script type="text/javascript" src="powerbidialog.js"></script></body>
+</html>

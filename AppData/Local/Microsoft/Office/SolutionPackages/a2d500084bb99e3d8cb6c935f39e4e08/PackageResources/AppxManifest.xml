@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Package IgnorableNamespaces="uap uap2 uap3" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3">
+  <Identity Name="CD7F7D77-5385-4C0E-9997-08526B7AB6B0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="2.0.2305.5017"/>
+  <Properties>
+    <DisplayName>Translator</DisplayName>
+    <PublisherDisplayName>Microsoft</PublisherDisplayName>
+    <Logo>TranslateIcon32x32_1f2d44713f9f6ab18d3b456732a6cd5c.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="12.0.0.0"/>
+    <TargetDeviceFamily Name="Platform.All" MinVersion="0.0.0.0" MaxVersionTested="0.0.0.0"/>
+  </Dependencies>
+  <Resources>
+    <Resource Language="en-us"/>
+  </Resources>
+  <Applications>
+    <Application Id="Microsoft.Office.FA000000116">
+      <uap:VisualElements DisplayName="Translator" Square150x150Logo="TranslateIcon32x32_1f2d44713f9f6ab18d3b456732a6cd5c.png" Square44x44Logo="TranslateIcon32x32_1f2d44713f9f6ab18d3b456732a6cd5c.png" Description="Translator helps you be productive in your preferred language, with translations, definitions, and more." BackgroundColor="transparent" AppListEntry="none"/>
+      <Extensions>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="office-add-in-contract" Id="Document-add-in" PublicFolder="public\Translator" DisplayName="Translator" Description="Translator helps you be productive in your preferred language, with translations, definitions, and more.">
+            <uap3:Properties/>
+          </uap3:AppExtension>
+        </uap3:Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>

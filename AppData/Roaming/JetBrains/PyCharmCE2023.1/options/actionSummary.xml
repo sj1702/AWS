@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1684927637455" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1684927636439" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1684927638161" />
+    </e>
+    <e n="Git.Init">
+      <i c="1" l="1684927719781" />
+    </e>
+    <e n="Git.Log.Hide.Branches">
+      <i c="1" l="1684927752645" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1684927840799" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1684927853894" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1684927859809" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1684927827584" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="3" l="1684927633671" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1684927659559" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1684927713292" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1684927851165" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1684927788793" />
+    </e>
+  </component>
+</application>

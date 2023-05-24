@@ -1,0 +1,109 @@
+ZEROIPV4_REloggerVERSIONTpython_versionversionverboseERRORINFOWARNerrordebugFATALDEBUGenviron
+EXTENSIONSMODULESTDOUTDSTSTART_1967_1986DSTEND_1987_2006DSTSTART_2007PacificEasternDSTEND_1967_1986SECONDHOURMountainDSTEND_2007DSTDIFFDSTSTART_1987_2006	DSTOFFSETLocalCentral	STDOFFSETIPV6_ENABLEDhas_gethostnameHOSTv6HOSTv4ESCAPE_ASCIIencode_basestringHAS_UTF8encode_basestring_asciiESCAPEINFINITY
+ESCAPE_DCTDEFAULT_ERROR_MESSAGEDEFAULT_ERROR_CONTENT_TYPEnobody	responses
+HTTPS_PORT	HTTP_PORTMONTHSLOOSE_HTTP_DATE_REHEADER_TOKEN_REHEADER_VALUE_REHTTPONLY_PREFIXcut_port_reHEADER_JOIN_ESCAPE_REHEADER_ESCAPE_REHEADER_QUOTED_VALUE_RENETSCAPE_MAGIC_RGXMONTHS_LOWERHTTPONLY_ATTR	UTC_ZONESTIMEZONE_RENETSCAPE_HEADER_TEXT
+WEEKDAY_REISO_DATE_RESTRICT_DATE_REDAYSHTTP_PATH_SAFEESCAPED_CHAR_RE
+EPOCH_YEARMISSING_FILENAME_TEXTDEFAULT_HTTP_PORT
+VERY_LARGELARGE	LLONG_MIN
+ULLONG_MAX	LLONG_MAXTEST_DATA_DIRhas_fork_supportSMALLEST	ALWAYS_EQPGOrequires_docstringsMAX_Py_ssize_t
+max_memuseTEST_HTTP_URLuse_resourceshas_strftime_extensions
+is_androidhas_socket_supportTEST_HOME_DIR	NHASHBITSTEST_SUPPORT_DIRNEVER_EQHAVE_DOCSTRINGSis_emscriptenPGO_EXTENDEDLOOPBACK_TIMEOUTis_wasi	REPO_ROOTjunit_xml_listhas_subprocess_supportrequires_legacy_unicode_capi
+STDLIB_DIRPIPE_MAX_SIZESOCK_MAX_SIZEMISSING_C_DOCSTRINGSfailfast	is_jythonSHORT_TIMEOUTrequires_IEEE_754
+unix_shellLARGESTINTERNET_TIMEOUTreal_max_memuseenvironment_alteredLONG_TIMEOUT"SUFFICIENT_TO_DEOPT_AND_SPECIALIZETEST_MODULETEST_MODULE_FNAMEdry_runimpOS_PATH_NAMEcode_info_compound_stmt_strbug46724dis_compound_stmt_strdis_c_class_methoddis_tryfinallyInstructionannot_stmt_strdis_module_expected_resultsdis_bug42562TRACEBACK_CODEdis_cdis_expr_strdis_load_test_quickened_codeexpected_opinfo_simplecompound_stmt_strdis_loop_test_quickened_codedis_c_instance_methoddis_bug708901code_info_tricky_nested_fdis_simple_stmt_strdis_annot_stmt_strexpr_strdis_tracebackdis_f_co_codeQUICKENING_WARMUP_DELAYexpected_opinfo_fdis_c_static_methodexpected_f_lineexpected_opinfo_innerexpected_jumpy_linedis_fexpected_opinfo_outerexpected_outer_linedis_extended_arg_quick_codecode_info_simple_stmt_strco_tricky_nested_fdis_tryfinallyconstdis_nested_0code_info_code_infodis_c_instance_method_bytesdis_nested_1dis_nested_2code_info_constsdis_bug46724simple_stmt_strcode_bug_45757code_info_trickyexpected_inner_linedis_bug1333982code_object_fcode_info_expr_strdis_fstringcode_info_async_defexpected_opinfo_jumpydis_bug_45757code_object_innerrequires_alarmIOBASE_EMITS_UNRAISABLEmodINTERN_NUMRUNSDICT_KEY_STRUCT_FORMATeval_results
+eval_testssingle_tests
+exec_testssingle_resultsexec_resultsOS_URANDOM_DONT_USE_FDrequires_splice_pipeUSING_LINUXTHREADS	all_usersroot_in_posixHAVE_WHEEL_GROUPSIGNED_CERTFILE
+HAS_KEYLOGBYTES_CAPATHONLYKEYNONEXISTINGCERTNOSAN_HOSTNAMEOP_CIPHER_SERVER_PREFERENCEKEY_PASSWORDOP_SINGLE_DH_USEOP_ENABLE_MIDDLEBOX_COMPATSIGNED_CERTFILE_INFOverSIGNED_CERTFILE2_HOSTNAMEDHFILENULLBYTECERTproto	EMPTYCERTBADKEYSIGNED_CERTFILE_ECC_HOSTNAMECAPATHONLYCERTSIGNED_CERTFILE_ECCasyncoreCERTFILEPY_SSL_DEFAULT_CIPHERSONLYKEY_PROTECTEDPROTOCOL_TO_TLS_VERSIONCAFILE_NEURONIO	PROTOCOLSOP_NO_COMPRESSIONBYTES_ONLYKEYIS_OPENSSL_3_0_0Py_DEBUG_WIN32CERTFILE_INFOignore_deprecationBYTES_DHFILE
+ALLSANFILE	NOSANFILESIGNED_CERTFILE_HOSTNAMESIGNED_CERTFILE2CAFILE_CACERTREMOTE_HOSTCRLFILEOP_SINGLE_ECDH_USEBYTES_ONLYCERTIDNSANSFILE	NOKIACERTBYTES_CERTFILE
+SIGNING_CABADCERTrequires_keylogsslTALOS_INVALID_CRLDPCERTFILE_PROTECTEDPROGRAM_BLOCKEDPROGRAM_CATBUF_MULTIPLIERequality_comparisonscomparisonsorder_comparisonsGetExtra	FREE_FUNCfreefuncpyRequestCodeExtraIndexSetExtra
+FREE_INDEX
+LAST_FREEDCOPY_FREE_VARSNULL_OR_EMPTYPy_TPFLAGS_METHOD_DESCRIPTORPy_TPFLAGS_HAVE_VECTORCALLPYTHON_INSTANCETRIPLETS	MAXDIGITSKARATSUBA_CUTOFFDBL_MANT_DIGMASKspecialBASEDBL_MIN_EXPSHIFTp2DBL_MIN_OVERFLOWDBL_MAXNINFHAVE_DOUBLE_ROUNDINGxtest_dir	FLOAT_MIN	FLOAT_MAXmath_testcasesy	test_fileepsCONVERT_TEST_NAME_D	COMPLEX_CUNCOMPARABLE_BCONVERT_STRING_TEST_NAME_ECONVERT_STRING_TEST_NAME_FCONVERT_STR_TEST_1CONVERT_STR_TEST_2UNCOMPARABLE_ATheoryCONVERT_STRING_TEST_NAME_ACONVERT_STRING_TEST_NAME_B	COMPLEX_BCONVERT_TEST_NAME_ECONVERT_TEST_NAME_C!expected_help_output_without_docsAnswer	COMPLEX_ACONVERT_TEST_NAME_FUNCOMPARABLE_CSHORT_MODULECONVERT_TEST_NAME_ACONVERT_TEST_NAME_BCONVERT_STRING_TEST_NAME_DCONVERT_STRING_TEST_NAME_CQuestionexpected_help_output_with_docsmissingrequireVenvCreateAUDIT_TESTS_PYlockdatafcntl
+MS_WINDOWSSTDLIB_INSTALLPYMEM_ALLOCATOR_MALLOCAPI_ISOLATED
+API_COMPAT
+INIT_LOOPS
+API_PYTHONPYMEM_ALLOCATOR_NOT_SETPYMEM_ALLOCATOR_DEBUGMAX_HASH_SEEDTIMEOUTtearDownModule
+c_warningspy_warningsDATA_DIRZONEINFO_DATA_V1ONE_H
+c_zoneinfolzmaZONEINFO_JSONZONEINFO_DATATEMP_DIRpy_zoneinfoHAS_TZDATA_PKGc	ac_testerascii_char_sizeucs2_char_sizeucs4_char_sizeCASE_INSENSITIVE_FSBUILTINSchanged_namesource_importlibFilesDefbytes_transform_encodingsbroken_unicode_with_statefulSIZEOF_WCHAR_Tall_unicode_encodingsnameprep_teststransform_aliasespunycode_testcasesHAVE_GETFINALPATHNAMEHAVE_GETSHORTPATHNAMEsyslogSystemRandom_availabletest_key_baseWIN_VERHAS_REFLECTIONtest_key_name	test_dataREMOTE_NAMEtest_reflect_key_nameWIN64_MACHINEUID_GID_SUPPORTSUPPORTS_SENDFILEno_chdir
+TESTFN_DST
+TESTFN_SRCSOLARISZERO_DIVISIONDEFAULT_NAMESPACEDEFAULT_CONFIGSOURCEDATA_XRANGEDATA0	protocolsDATA_COOKIEDATA_SET	myclassesDATA4DATA2DATA3	DATA2_DISrequires_32bREDUCE_ADATA1	DATA1_DISexception_pickle	DATA3_DIS	DATA0_DIS
+DATA_UEERR	DATA4_DISpython2_exceptions_without_args	DATA_SET2test_conv_signtest_conv_no_sign
+LARGE_SIZEvar_annot_globalINVALID_UNDERSCORE_LITERALSVALID_UNDERSCORE_LITERALS
+TIPC_LOWER
+TIPC_STYPEHAVE_SOCKET_BLUETOOTHHAVE_SOCKET_RDSHAVE_SOCKET_CANHAVE_SOCKET_QIPCRTRHAVE_SOCKET_UDPLITEHAVE_SOCKET_ALG
+SIZEOF_INTHAVE_SOCKET_CAN_J1939HAVE_SOCKET_VSOCKHAVE_SOCKET_CAN_ISOTPMSG
+TIPC_UPPER	VSOCKPORT
+ROUND_DOWNROUND_FLOORROUND_HALF_UPEXTENDEDERRORTESTEXTRA_FUNCTIONALITYCROUND_HALF_EVENtestdirORIGINAL_CONTEXT
+ROUND_05UPskip_expectedROUND_UP
+cfractions	all_testsROUND_CEILING	fractionsRoundingModesrequires_extra_functionalityskip_if_extra_functionalityTESTDATADIRSignalsOrderedSignals	directoryP
+pfractionsROUND_HALF_DOWN unsorted_keyword_only_parametersgitmodfileref_from_del
+libreftestresult_2004_htmlresult_2004_textresult_0_textresult_2004_daysdefault_formatresult_2004_01_textresult_0_02_textresult_2004_datesPY_EXETEST_PY_DEFAULTSTEST_PY_ENV	TEST_DATATEST_PY_COMMANDSFEDORA_OS_RELEASETEST_OS_RELEASEUBUNTU_OS_RELEASEpy_operator
+c_operatorFIXEDTEST_SIZESMALL_TEST_DATA	TESTFNDIRDATAFILES_DIRconsumeSpecialAttrsPXK	py_typingCANNOT_SUBCLASS_TYPESpecialAttrsTgthT_aLabelc_typingXVstr_wrappersha256_sparsetarnamexzname	tarextdirdotlessnametmpnamebz2nameTEMPDIRsha256_regtypegzipnameRFC2396_BASERFC3986_BASEparse_qs_test_casesparse_qsl_test_casesRFC1808_BASESIMPLE_BASE
+eq_bstderrParserTestCaseeq_stdinBIN_STDERR_SENTINELHelpTestCase	eq_stdoutbasesBIN_STDOUT_SENTINEL
+eq_bstdout	eq_bstdin	eq_stderrHAS_USER_BASEaextra74extra84tllitllextra78multiline_sigollstuff84extra79extra85method_in_dynamic_classstuff78ABSTFNminsizepicklecopiersmaxsizetest_tbcause_message
+boundariescontext_message	test_codeMODULE_PREFIX
+test_framepy_statisticsc_statistics	cgi_file4	cgi_file2	cgi_file1	cgi_file6SAMPLE_XML_NS_ELEMSUTF8_BUG_XMLFILEXINCLUDE_BADEXTERNAL_ENTITY_XMLSIMPLE_XMLFILE
+ENTITY_XML
+SAMPLE_XMLSIMPLE_NS_XMLFILEXINCLUDEETSAMPLE_SECTIONpyETATTLIST_XMLSAMPLE_XML_NSKVTestNTNONEXISTING_CMDZERO_RETURN_CMDNONEXISTING_ERRORS	SETBINARYEVENT_NAMESexample_argstest_sourceTEMPLATEINITIALIZER_STATUSEXCEPTION_FUTURECANCELLED_AND_NOTIFIED_FUTURESUCCESSFUL_FUTURECANCELLED_FUTUREPENDING_FUTURERUNNING_FUTURE
+fsencoding	filenamesCORE_VENV_DEPSGENERATOR_AND_COROUTINE_FLAGSsupports_bytes_environSEEK_CURP_WAITsupports_follow_symlinksfspathfsencodeGenericAliasSEEK_ENDP_NOWAITsupports_dir_fdlinesepfsdecodeenvironbsupports_effective_ids	P_NOWAITOSEEK_SETsupports_fd
+s_longlongs_longdoubles_floats_ints_ulongendian_typess_uints_ushorts_shortnative_typess_longOTHER_ENDIANTHIS_ENDIANs_doubles_bools_ulonglong	PComplete
+MyCallbackOtherCallbackdllCHECK_TIMINGS
+SERIALIZERMAXFD	HAS_SHMEMSHUTDOWN_TIMEOUTPRELOADTIMEOUT1TIMEOUT2TIMEOUT3DELTAHAVE_GETVALUE	LOG_LEVELHAS_SHAREDCTYPESSENTINELWIN32HAS_REDUCTIONMACHINESTACK_DEBUGisfutureFutureTESTCMDline_prefixSSLAgainErrors
+uses_queryuses_netlocnon_hierarchicaluses_relative
+ResultBasescheme_charsuses_paramsuses_fragmentERROR_CONNECTION_REFUSEDNULLINFINITECONNECT_PIPE_INIT_DELAYERROR_CONNECTION_ABORTEDCONNECT_PIPE_MAX_DELAYproxy_bypassMAXFTPCACHE
+getproxiesftpcacheMAXIMUM_SELECT_TIMEOUTEnumKEEPUNIQUE
+CONTINUOUSSTRICTFlagEJECTReprEnumNAMED_FLAGSCONFORMEnumMetaC2C0mbc1mock_pyclbr_treeF1F3C1fnamef2f0modulef1tracersfont_sample_text
+help_pageshelp_commonreloadableschangesDEFAULT_TCP_LOGGING_PORTDEFAULT_SOAP_LOGGING_PORTSYSLOG_UDP_PORTDEFAULT_HTTP_LOGGING_PORTSYSLOG_TCP_PORTDEFAULT_UDP_LOGGING_PORTBASIC_FORMAT
+lastResortNOTSETlogProcesseslogMultiprocessingrootWARNINGraiseExceptions
+logThreadscurrentframeCRITICALRESERVED_FUTURENAMESPACE_URLNAMESPACE_DNSRESERVED_NCSNAMESPACE_X500RESERVED_MICROSOFTbytes_int_RFC_4122NAMESPACE_OIDPRAGMA_NOCOVER	getdoubleREADABLEwantobjectsTclError	EXCEPTIONWRITABLE
+TclVersion	TkVersiongetintnormal_foo_nameasync_foo_nameVARPyCF_DONT_IMPLY_DEDENTPyCF_ALLOW_INCOMPLETE_INPUT
+log_foobarlog_foolog_quuxSTDOUT_LINESTDERR_LINEm	classDict	OldResultBOM_UTF32_BEBOM	BOM_UTF16BOM_UTF16_BExmlcharrefreplace_errorsignore_errorsBOM_LEnamereplace_errorsstrict_errorsBOM64_BEBOM32_LEBOM_UTF16_LEBOM64_LEbackslashreplace_errorsreplace_errors	BOM_UTF32BOM_UTF32_LEBOM_UTF8BOM32_BEBOM_BEEPOCHEPOCHORDINALhtmltexthelp	plaintextDIFF_OMITTEDDEFAULT
+FILTER_DIR	open_specrightFunctionTypescallsentinelinplaceANYmagic_methods	file_specnumericssace_prefixdots
+ace_prefix
+SndHeaderstestsposixCOPY_BUFSIZEntexpovariatevonmisesvariateuniform	randrangeweibullvariatebetavariate	randbytes
+triangulargammavariateSG_MAGICCONSTshuffleBPF	RECIP_BPFgetrandbitsrandintparetovariategetstatesamplelognormvariatesetstategaussseedNV_MAGICCONSTchoicesLOG4choicenormalvariaterandomerrorTabEAGAINEBADFEWOULDBLOCKEXTRA_QUEUED_CALLSkCORO_RUNNINGCORO_CLOSEDGEN_SUSPENDEDClosureVarsCORO_SUSPENDEDvArgInfoCORO_CREATEDmod_dictTPFLAGS_IS_ABSTRACT
+GEN_CLOSEDGEN_RUNNING	Argumentsmodulesbyfile	AttributeFullArgSpecGEN_CREATED
+MutableSetAbstractSetEXCLUDED_ATTRIBUTESText	FrozenSet	ItemsViewKTSetMutableSequence	ContainerAnyStrMappingViewTypeIteratorMappingAsyncIterableAsyncContextManagerIterableHashableSequenceDict
+ReversibleAsyncIterator	GeneratorSizedVT_coTupleCallableMutableMappingPatternV_co	AwaitableKeysViewContextManagerVT
+ByteString	CoroutineT_contraCT_coMatch
+CollectionT_coDefaultDictCounterDequeChainMapOrderedDictAsyncGenerator
+ValuesViewTYPE_CHECKINGListENCODINGCONTTYPEBLKTYPELNKTYPE	GNU_TYPESLENGTH_PREFIXPAX_NAME_FIELDSREGTYPEPOSIX_MAGICAREGTYPEGNUTYPE_LONGLINKLENGTH_NAMEsymlink_exceptionSYMTYPESUPPORTED_TYPESPAX_NUMBER_FIELDSREGULAR_TYPESFIFOTYPEGNUTYPE_LONGNAMESOLARIS_XHDTYPE	GNU_MAGICXGLTYPECHRTYPE
+PAX_FORMATopen
+GNU_FORMATDEFAULT_FORMATXHDTYPEUSTAR_FORMATNUL
+PAX_FIELDSDIRTYPEGNUTYPE_SPARSE
+RECORDSIZELENGTH_LINK	BLOCKSIZEREPORT_ONLY_FIRST_FAILUREREPORTING_FLAGSREPORT_NDIFFREPORT_UDIFFELLIPSISTestResultsSKIPOPTIONFLAGS_BY_NAME	FAIL_FASTNORMALIZE_WHITESPACEDONT_ACCEPT_TRUE_FOR_1masterELLIPSIS_MARKERCOMPARISON_FLAGSREPORT_CDIFFBLANKLINE_MARKERDONT_ACCEPT_BLANKLINEIGNORE_EXCEPTION_DETAILPlistFormatPLISTHEADERCanvasdoneRawPenPenPARSERONE_OR_MOREOPTIONAL	REMAINDERSUPPRESSZERO_OR_MORE
+IPV6LENGTH
+IPV4LENGTHMAX_EXTRACT_VERSION
+BadZipfilesizeEndCentDir64ZIP_LZMAstringEndArchive64LocatorZIP_MAX_COMMENTZIP_FILECOUNT_LIMITsizeEndCentDirsizeCentralDir	ZIP_BZIP2stringEndArchivestructCentralDirstringEndArchive64ZIP64_VERSIONsizeFileHeaderZIP_DEFLATEDstringFileHeadersizeEndCentDir64Locatorcompressor_namescrc32structEndArchivestructEndArchive64LocatorstringCentralDirDEFAULT_VERSIONstructFileHeaderBZIP2_VERSIONstructEndArchive64
+ZIP_STOREDLZMA_VERSIONZIP64_LIMITdimMINYEARdbmUTCMAXYEARtopicsRichReprResultResultdecoderconsolere_ansistdout_resultstdoutSGR_STYLE_MAPlineRE_COLORANSI_COLOR_NAMESTextTypeGetStyleCallableDEFAULT_OVERFLOWDEFAULT_JUSTIFY	RenderMap	RegionMapSIMPLEMINIMAL_HEAVY_HEADPLAIN_HEADED_SUBSTITUTIONSSIMPLE_HEAVYSIMPLE_HEADSQUAREDOUBLE_EDGEROUNDED
+HEAVY_EDGEHEAVYMINIMAL_DOUBLE_HEAD
+HEAVY_HEADDOUBLEMINIMALHORIZONTALSSQUARE_DOUBLE_HEADASCII_DOUBLE_HEADASCII2ASCIIMARKDOWNLEGACY_WINDOWS_SUBSTITUTIONSJUPYTER_CLASSES_TO_NOT_RENDER	TokenType	ANSI_DARKNUMBERS_COLUMN_DEFAULT_PADDING
+ANSI_LIGHTSyntaxPositionRICH_SYNTAX_THEMESDEFAULT_THEME	StyleType
+NULL_STYLESTRING_END_ARCHIVEcp437_tableMAX_COMMENT_LENalt_path_sepEND_CENTRAL_DIR_SIZEpath_sepRenderableTypeJUPYTER_DEFAULT_LINESJustifyMethodRenderResultOverflowMethodHighlighterTypeJUPYTER_DEFAULT_COLUMNS	NO_CHANGECOLOR_SYSTEMSWHEEL_BUILT_MARKER
+HOOK_NAMES
+PULSE_SIZENORMALIZED_LSB_IDNORMALIZED_OS_IDNORMALIZED_DISTRO_ID
+ansi_codesISO2022CN_STHZ_SM_MODELHZ_CLSISO2022JP_CHAR_LEN_TABLEISO2022KR_SM_MODELHZ_CHAR_LEN_TABLEISO2022JP_STISO2022CN_CLSISO2022CN_CHAR_LEN_TABLEISO2022KR_CHAR_LEN_TABLEHZ_STISO2022JP_CLSISO2022KR_STISO2022JP_SM_MODELISO2022KR_CLSISO2022CN_SM_MODELLOCALS_MAX_STRINGLOCALS_MAX_LENGTH	LANGUAGESjp2_char_contextTaskIDGetTimeCallableProgressTypeLatin1ClassModelASCASOLatin1_CharToClassASVACOOTHASSFREQ_CAT_NUMUDF	CLASS_NUMACVSingleByteCharSetModel
+GB2312_CLSUCS2BE_SM_MODEL	EUCKR_CLSUTF8_SM_MODELEUCKR_CHAR_LEN_TABLEUTF8_CHAR_LEN_TABLEUCS2LE_SM_MODELBIG5_STEUCJP_STEUCKR_STUTF8_CLS	UCS2BE_STUTF8_ST
+UCS2LE_CLSUCS2LE_CHAR_LEN_TABLEJOHAB_SM_MODEL	EUCJP_CLSUCS2BE_CHAR_LEN_TABLEGB2312_SM_MODELCP949_CHAR_LEN_TABLE	GB2312_STCP949_SM_MODELEUCJP_SM_MODEL	CP949_CLSSJIS_STEUCTW_STCP949_STJOHAB_CHAR_LEN_TABLE	JOHAB_CLS	EUCTW_CLS
+UCS2BE_CLSSJIS_SM_MODELJOHAB_STBIG5_CLSEUCTW_SM_MODELEUCTW_CHAR_LEN_TABLESJIS_CHAR_LEN_TABLEGB2312_CHAR_LEN_TABLEBIG5_SM_MODELBIG5_CHAR_LEN_TABLEEUCJP_CHAR_LEN_TABLE	UCS2LE_STEUCKR_SM_MODELSJIS_CLSINTERNATIONAL_WORDS_PATTERN	SCHEME_RELS32_PATIPV6_ADDRZ_REBRACELESS_IPV6_ADDRZ_RENORMALIZABLE_SCHEMESURI_REZONE_ID_PATSUB_DELIM_CHARS
+PERCENT_REIPV4_PAT
+ZONE_ID_RE
+PATH_CHARSIPV6_PATIPV6_ADDRZ_PATREG_NAME_PATIPV6_REQUERY_CHARS	url_attrsFRAGMENT_CHARSHEX_PATUNRESERVED_PATUNRESERVED_CHARS	TARGET_REUSERINFO_CHARSSSL_WRITE_BLOCKSIZEmakefileorig_util_SSLContextorig_util_HAS_SNIHAS_SNIis_local_appengineis_prod_appengine_mvmsis_prod_appengineis_appengineis_appengine_sandboxwrapped_stdoutatexit_donewrapped_stderrorig_stderrorig_stdoutCOORDSTDERRwindllRequestHistorywintermbrotlicharset_normalizer_versionxrangeget_win_folderAppDirsPlatformDirsCONTENT_CHUNK_SIZEDBL_MAX_EXPMOCK_ANYPy_DEBUGiMACOSINFNANpointer_sizeHOSTAIXTESTFN2	mswindowsnameSelectorEventLoopDefaultEventLoopPolicy	tests_guipardirsepaltseppathsepdevnullsupports_unicode_filenamesextsepdefpathcurdirparserWINDOWSlogRegEnumValueHKEYS
+RegEnumKeyRegErrorRegOpenKeyExPLAT_SPEC_TO_RUNTIMEPLAT_TO_VCVARSnamesMARKER_ATOM
+MARKER_VARBOOLOPMARKER_ITEM	MARKER_OPMARKER_VALUEVERSION_CMPVARIABLEOperatorALIASESREQUIREMENTALPHANUMEXTRASVERSION_PEP440COMMAEXTRAPUNCTUATIONRPARENVERSION_SPEC	SEMICOLONLPAREN
+IDENTIFIERNAMEVERSION_AND_MARKEREXTRAS_LISTVERSION_LEGACYNAMED_REQUIREMENTMARKER_EXPRURL_AND_MARKERURLVERSION_MANYLBRACKETRBRACKETMARKER_SEPARATORURIMARKERVERSION_ONEIDENTIFIER_ENDATpyparsing_unicodepyparsing_testpyparsing_commonNamedDiagramjinja2_template_sourcetemplateunicode_stringstring_startempty	alphanumssglQuotedString
+line_startOptionaldblQuotedStringParseConditionnullDebugActionidentbodychars	stringEndDebugStartActionDebugSuccessActionpunc8bitquotedStringline_endsgl_quoted_string
+identcharsunicodeStringtraceParseAction	lineStart
+printablesconditionAsParseActionlineEndalphas
+string_endstr_typequoted_stringstringStarttokenMapDebugExceptionActionhexnums
+alphas8bitdbl_quoted_stringnumsParseActionParseFailActionITER_CHUNK_SIZEREDIRECT_STATIDEFAULT_REDIRECT_LIMITCommandArgs
+ENV_VAR_REDIRECT_URL_METADATA_NAMEInfoTypeVersionInfoExcInfoNetlocTuplehelp_general_groupclient_certrequire_virtualenvproxyuse_deprecated_featureindex_groupno_inputno_cachecheck_build_depspythonno_colorimplementation
+debug_moderetriesprehashbuild_optionsno_build_isolationisolated_modeabisconfig_settingsrequire_hashesno_use_pep517src	list_pathno_depsdisable_pip_version_checkno_indexroot_user_action	index_urluse_new_featurecert
+use_pep517no_clean	cache_dirquietglobal_optionsprogress_bar	platformsignore_requires_pythonlist_excludetimeoutinstall_optionsno_python_version_warningProtocolResponseHeadersCredentials	user_sitesite_packagesUSER_CACHE_DIRCandidateSortingKeyBuildTagMissingCheckResult
+PackageSetConflictDetailsConflictingConflictingDictMissingDictBuildSystemDetailsVERSION_PATTERNPEP508_IDENTIFIER_REGEXRECOMMEDED_ENTRYPOINT_REGEXRECOMMEDED_ENTRYPOINT_PATTERNPEP508_IDENTIFIER_PATTERNENTRYPOINT_REGEXENTRYPOINT_GROUP_PATTERNENTRYPOINT_GROUP_REGEXENTRYPOINT_PATTERNVERSION_REGEXPYPROJECT_CORRESPONDENCEEMPTYSETUPTOOLS_PATCHESTOOL_TABLE_DEPRECATIONSTOOL_TABLE_RENAMESTargetAllCommandOptionsSingleCommandOptionsNATIVE_EXTENSIONSINSTALL_DIRECTORY_ATTRSsafety_flagssequence
+WHEEL_NAMENAMESPACE_PACKAGE_INITinfowarnfatalLANG_EXTextension_name_rePYTHON_SOURCE_EXTENSIONfirst_line_reshebang_patternDEFAULT_PYPIRCSCHEME_KEYSWINDOWS_SCHEMEINSTALL_SCHEMESHAS_USER_SITEUSAGEsetup_keywordsextension_keywordsNoneTypeREGEX_PATTERNSARCHIVE_FORMATSMACOSX_VERSION_VARcompiler_classOldMSVCCompilerhkey_modlongopt_xlatelongopt_pat
+longopt_reneg_alias_reWS_TRANSNET_BASEWINSDK_BASEVS_BASENATIVE_WIN64re_parencompmapre_splitComparisonre_validPackageCONFIG_H_OKget_versionsCONFIG_H_NOTOKCONFIG_H_UNCERTAIN
+chain_iterStrIterbuild_sdist#prepare_metadata_for_build_editableget_requires_for_build_editableget_requires_for_build_sdistbuild_wheelLEGACY_EDITABLEget_requires_for_build_wheelSETUPTOOLS_ENABLE_FEATURES prepare_metadata_for_build_wheelbuild_editablefind_namespace_packagesbootstrap_install_fromfind_packagesBASE_PREFIXEXEC_PREFIXIS_PYPYBASE_EXEC_PREFIXbuild_flagspython_buildproject_basePREFIX
+command_repadnoneunicodeos_namePY3systemopen_with_authPYPI_MD5
+entity_sub
+user_agentRELHREFEGG_FRAGMENT
+URL_SCHEMEempty_provideradd_activation_listenerresource_streamDEVELOP_DISTresource_isdirdarwinVersionStringresource_existsrun_mainget_platformmacosVersionStringcleanup_resourcesPY_MAJORworking_setresources_streamSOURCE_DISTresource_filenameresource_stringEGG_NAMEAvailableDistributionsCHECKOUT_DISTiter_entry_pointsrequireBINARY_DISTEGG_DISTset_extraction_pathresource_dirWRITE_SUPPORTresource_listdirKW_ONLYMISSINGDEVNULLPIPEMAX_INTERPOLATION_DEPTHDEFAULTSECTLinearRegressionDEFAULTKEYWORDS
+pot_headerdefault_keywordsEMPTYSTRINGUINT32_MASKfooterheaderinternal_headerSCRIPT_NAMEDEFINEPYTHON_OPCODEinternal_footerSTDLIB_PATHWINDOWS_MODULESMODULES_SETUPSETUP_PYIGNOREMACOS_MODULESSRC_DIR                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

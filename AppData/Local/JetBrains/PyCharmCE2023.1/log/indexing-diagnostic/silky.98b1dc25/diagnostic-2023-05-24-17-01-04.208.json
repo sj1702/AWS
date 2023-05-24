@@ -1,0 +1,351 @@
+{
+  "appInfo" : {
+    "build" : "231.9011.38",
+    "buildDate" : "2023-05-16T21:34:55.661Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-05-24T11:31:04.208337Z",
+    "os" : "Windows 11.0",
+    "runtime" : "JetBrains s.r.o. 17.0.6 17.0.6+10-b829.9"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 786432000,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "silky",
+    "times" : {
+      "indexingReason" : "Merged On refresh of files in silky with On refresh of files in silky with changes in: \"Module 'silky' (Python311)\" with On refresh of files in silky with On refresh of files in silky with On refresh of files in silky with On refresh of files in silky with On refresh of files in silky with On refresh of files in silky with On refresh of files in silky with On refresh of files in silky with changes in: \"Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" with On refresh of files in silky",
+      "scanningType" : "REFRESH",
+      "totalUpdatingTime" : 15077315900,
+      "indexingTime" : 15066899200,
+      "contentLoadingVisibleTime" : 9292130943,
+      "creatingIteratorsTime" : 0,
+      "scanFilesTime" : 0,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 465941953,
+      "updatingStart" : "2023-05-24T11:30:49.1394367Z",
+      "updatingEnd" : "2023-05-24T11:31:04.208337Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 1123,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1123,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 5546,
+      "numberOfFilesIndexedWithLoadingContent" : 5988
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PythonStub",
+      "partOfTotalProcessingTime" : {
+        "part" : 99957130900,
+        "total" : 163460491900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 91646324800,
+        "total" : 101452368900
+      },
+      "totalNumberOfFiles" : 3102,
+      "totalFilesSize" : 5658993,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5658993,
+        "totalTime" : 99957130900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "numberOfFiles" : 3102,
+        "totalFilesSize" : 5658993,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 99957130900,
+          "total" : 99957130900
+        }
+      } ]
+    }, {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 57626220700,
+        "total" : 163460491900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4318716800,
+        "total" : 101452368900
+      },
+      "totalNumberOfFiles" : 2680,
+      "totalFilesSize" : 42818563,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 42818563,
+        "totalTime" : 57626220700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'silky' (Python311)",
+        "numberOfFiles" : 1587,
+        "totalFilesSize" : 28869828,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 40063431700,
+          "total" : 57626220700
+        }
+      }, {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 1062,
+        "totalFilesSize" : 13722788,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 14390013500,
+          "total" : 57626220700
+        }
+      }, {
+        "providerName" : "Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "numberOfFiles" : 31,
+        "totalFilesSize" : 225947,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3172775500,
+          "total" : 57626220700
+        }
+      } ]
+    }, {
+      "fileType" : "TOML",
+      "partOfTotalProcessingTime" : {
+        "part" : 3349863000,
+        "total" : 163460491900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3137480600,
+        "total" : 101452368900
+      },
+      "totalNumberOfFiles" : 122,
+      "totalFilesSize" : 5533,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5533,
+        "totalTime" : 3349863000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "numberOfFiles" : 122,
+        "totalFilesSize" : 5533,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3349863000,
+          "total" : 3349863000
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 2416421100,
+        "total" : 163460491900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2240616900,
+        "total" : 101452368900
+      },
+      "totalNumberOfFiles" : 82,
+      "totalFilesSize" : 39407,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 39407,
+        "totalTime" : 2416421100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "numberOfFiles" : 82,
+        "totalFilesSize" : 39407,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2416421100,
+          "total" : 2416421100
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 110856200,
+        "total" : 163460491900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 109229800,
+        "total" : 101452368900
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 10175,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10175,
+        "totalTime" : 110856200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 10175,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 110856200,
+          "total" : 110856200
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 44394295500,
+        "total" : 45446190000
+      },
+      "totalNumberOfFiles" : 5784,
+      "totalNumberOfFilesIndexedByExtensions" : 5342,
+      "totalFilesSize" : 48487731,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48487731,
+        "totalTime" : 44394295500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 700909800,
+        "total" : 45446190000
+      },
+      "totalNumberOfFiles" : 5988,
+      "totalNumberOfFilesIndexedByExtensions" : 5546,
+      "totalFilesSize" : 48532671,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48532671,
+        "totalTime" : 700909800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 350984700,
+        "total" : 45446190000
+      },
+      "totalNumberOfFiles" : 5988,
+      "totalNumberOfFilesIndexedByExtensions" : 5546,
+      "totalFilesSize" : 48532671,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48532671,
+        "totalTime" : 350984700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "numberOfScannedFiles" : 1123,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1123,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 3225500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ "Not collected for refresh" ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.11 C:\\Users\\silky\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+      "totalNumberOfIndexedFiles" : 3339,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 3339,
+      "totalIndexingVisibleTime" : 9979424527,
+      "contentLoadingVisibleTime" : 9162618249,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 125154080
+    }, {
+      "providerName" : "Module 'silky' (Python311)",
+      "totalNumberOfIndexedFiles" : 1587,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1357,
+      "totalIndexingVisibleTime" : 3667744472,
+      "contentLoadingVisibleTime" : 70933668,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "test_ipaddress.py",
+        "processingTime" : 617659400,
+        "evaluationOfIndexValueChangerTime" : 578466100,
+        "contentLoadingTime" : 10011500
+      }, {
+        "fileName" : "test_inspect.py",
+        "processingTime" : 708774900,
+        "evaluationOfIndexValueChangerTime" : 703666300,
+        "contentLoadingTime" : 406100
+      }, {
+        "fileName" : "test_builtin.py",
+        "processingTime" : 647283900,
+        "evaluationOfIndexValueChangerTime" : 637818500,
+        "contentLoadingTime" : 533300
+      }, {
+        "fileName" : "test_io.py",
+        "processingTime" : 846778300,
+        "evaluationOfIndexValueChangerTime" : 840702200,
+        "contentLoadingTime" : 321800
+      }, {
+        "fileName" : "test_decimal.py",
+        "processingTime" : 862668400,
+        "evaluationOfIndexValueChangerTime" : 817212900,
+        "contentLoadingTime" : 268800
+      }, {
+        "fileName" : "test_ssl.py",
+        "processingTime" : 771916500,
+        "evaluationOfIndexValueChangerTime" : 757171600,
+        "contentLoadingTime" : 754600
+      }, {
+        "fileName" : "test_typing.py",
+        "processingTime" : 1198698200,
+        "evaluationOfIndexValueChangerTime" : 1191484300,
+        "contentLoadingTime" : 346700
+      }, {
+        "fileName" : "test_os.py",
+        "processingTime" : 962851900,
+        "evaluationOfIndexValueChangerTime" : 947044200,
+        "contentLoadingTime" : 871800
+      }, {
+        "fileName" : "test_socket.py",
+        "processingTime" : 1013544800,
+        "evaluationOfIndexValueChangerTime" : 985414200,
+        "contentLoadingTime" : 653500
+      }, {
+        "fileName" : "test_enum.py",
+        "processingTime" : 868090500,
+        "evaluationOfIndexValueChangerTime" : 864889300,
+        "contentLoadingTime" : 223000
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 181222067
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 1062,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 850,
+      "totalIndexingVisibleTime" : 1422410900,
+      "contentLoadingVisibleTime" : 58579026,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "core.py",
+        "processingTime" : 598283600,
+        "evaluationOfIndexValueChangerTime" : 582600100,
+        "contentLoadingTime" : 343100
+      }, {
+        "fileName" : "fastjsonschema_validations.py",
+        "processingTime" : 626303000,
+        "evaluationOfIndexValueChangerTime" : 610818700,
+        "contentLoadingTime" : 1249100
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 159565806
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0988470858627061
+  }
+}
