@@ -1,0 +1,1 @@
+In git there are three areas:Working Directory:command will be pwd-present working directory-and example here is git-repo:, Git Repository:example here is .git hidden folder created with command git init:, Staging Area/index-It is a link between working directory and git repository.It is used as git add, git commit n git checkout.
