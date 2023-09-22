@@ -1,1 +1,2 @@
-1.txt is a git blob is first file under .git tree/directory
+Some changes
+other changes
