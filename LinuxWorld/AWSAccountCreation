@@ -1,1 +1,31 @@
+Go to Google
+Search AWS Console
+the first link will be to 'signup' or 'start building now at no-cost...' link https://aws.amazon.com/account/sign-up
+click on the link
+You will see on right top corner 'Create an AWS Acccount' button
+click the button
+Enter the details
+AWSaccountname can give any name(basically like username)
+click continue
+Enter captcha 
+click continue
+next will ask for the purpose of the account.
+So for training and education we can select personal( as here i did)
+Enter the details such as name, phone, address
+click next
+For creating a free tier account we need to add the billing information. They will charge 2inr or 1 usd.
+if you have Pan number then enter it else select no
+Now confirm the payment
+and noe confirm identity with the OTP SEent on your mobile
+click continue
+Now for training purpose I selected Basic support-Free which will be enough
+then click Signup
+now account will be activated in some time(few minutes) and you will be notified by the email you entered.
+
+once received email
+Goto to signin page
+click the 'Sign in to the console' button at Top right corner
+select Root user
+enter the email, captcha and password  and click signin
+You will be navigated to the AWS console which has your AWS account name(Username) at top right corner
 
